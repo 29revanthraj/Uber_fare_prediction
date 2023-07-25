@@ -7,5 +7,6 @@ The proposed system helps to predict the fare of uber cabs using linear regressi
 Now we train our model with the previous dataset and then test the model with new data values and predict the fare 
 This application can improve the transport accessibility, reduce waiting time and reduce the transportation fare etc.
 ![loginimg](https://user-images.githubusercontent.com/72749991/209986185-0ed1a46f-5b23-40b1-86aa-9d7ef17c7084.jpg)
-https://github.com/29revanthraj/Uber_fare_prediction/assets/72749991/b58ccc1e-b75d-4cb0-8d72-c175dcad8ea6
+# Video Link
+!(https://github.com/29revanthraj/Uber_fare_prediction/assets/72749991/b58ccc1e-b75d-4cb0-8d72-c175dcad8ea6)
 
